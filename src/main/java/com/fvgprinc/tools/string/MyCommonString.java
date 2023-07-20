@@ -1,4 +1,4 @@
-package com.fvgprinc.tools.common.string;
+package com.fvgprinc.tools.string;
 
 import java.io.IOException;
 import java.io.InputStream;
