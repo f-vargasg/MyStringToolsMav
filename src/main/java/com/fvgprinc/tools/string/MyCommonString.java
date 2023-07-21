@@ -7,7 +7,8 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public final class MyCommonString {
+
+public class MyCommonString {
 
     public static final String EMPTYSTR = "";
     public static final char COMILLA_SENCILLA = '\'';
